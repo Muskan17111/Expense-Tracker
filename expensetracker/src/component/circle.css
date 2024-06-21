@@ -1,0 +1,26 @@
+.circles-container {
+    display: flex;
+    justify-content: start;
+    align-items: start; 
+    margin-top: 5px;
+    margin-left: 20px;
+    gap: 10px; 
+}
+
+.circle { 
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+}
+
+.blue {
+   background-color: red;
+}
+
+.red {
+   background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
